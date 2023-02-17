@@ -3,3 +3,4 @@ A console-based dictionary using a simplified JMDict dictionary dataset (by [scr
 ## Screenshots
 ![ss1](https://raw.githubusercontent.com/vonnogadas/Console-JapEng-Dictionary/main/Screenshot_20230217_211943.jpg)
 ![ss2](https://raw.githubusercontent.com/vonnogadas/Console-JapEng-Dictionary/main/Screenshot_20230217_212019.jpg)
+![ss3](https://raw.githubusercontent.com/vonnogadas/Console-JapEng-Dictionary/main/Screenshot_20230217_213048.jpg)
