@@ -19,7 +19,7 @@ void english_meaningsearch(json &data, string input){
     string word;
     vector<string> words;
 
-    while (std::getline(ss, word, ' ')) {
+    while (getline(ss, word, ' ')) {
       words.push_back(word);
     }
 
